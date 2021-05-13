@@ -1,8 +1,8 @@
-package com.esgi.al2.projet.annuel.levelUp.repository;
+package com.esgi.al2.projet.jee.levelUp.repository;
 
-import com.esgi.al2.projet.annuel.levelUp.model.Exercise;
-import com.esgi.al2.projet.annuel.levelUp.model.Response;
-import com.esgi.al2.projet.annuel.levelUp.model.User;
+import com.esgi.al2.projet.jee.levelUp.model.Exercise;
+import com.esgi.al2.projet.jee.levelUp.model.Response;
+import com.esgi.al2.projet.jee.levelUp.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import javax.validation.constraints.NotNull;

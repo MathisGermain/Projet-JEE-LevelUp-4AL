@@ -1,10 +1,10 @@
-package com.esgi.al2.projet.annuel.levelUp.service;
+package com.esgi.al2.projet.jee.levelUp.service;
 
 
-import com.esgi.al2.projet.annuel.levelUp.model.Exercise;
-import com.esgi.al2.projet.annuel.levelUp.model.Response;
-import com.esgi.al2.projet.annuel.levelUp.model.User;
-import com.esgi.al2.projet.annuel.levelUp.repository.ResponseRepository;
+import com.esgi.al2.projet.jee.levelUp.model.Exercise;
+import com.esgi.al2.projet.jee.levelUp.model.Response;
+import com.esgi.al2.projet.jee.levelUp.model.User;
+import com.esgi.al2.projet.jee.levelUp.repository.ResponseRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

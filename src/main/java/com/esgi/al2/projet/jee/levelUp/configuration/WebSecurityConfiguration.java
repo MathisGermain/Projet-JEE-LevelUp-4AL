@@ -1,4 +1,4 @@
-package com.esgi.al2.projet.annuel.levelUp.configuration;
+package com.esgi.al2.projet.jee.levelUp.configuration;
 
 
 import org.springframework.context.annotation.Configuration;

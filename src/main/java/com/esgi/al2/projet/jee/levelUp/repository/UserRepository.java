@@ -1,6 +1,6 @@
-package com.esgi.al2.projet.annuel.levelUp.repository;
+package com.esgi.al2.projet.jee.levelUp.repository;
 
-import com.esgi.al2.projet.annuel.levelUp.model.User;
+import com.esgi.al2.projet.jee.levelUp.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

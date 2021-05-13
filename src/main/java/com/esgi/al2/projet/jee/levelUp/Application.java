@@ -1,4 +1,4 @@
-package com.esgi.al2.projet.annuel.levelUp;
+package com.esgi.al2.projet.jee.levelUp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

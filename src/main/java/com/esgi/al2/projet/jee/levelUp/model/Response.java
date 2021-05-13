@@ -1,4 +1,4 @@
-package com.esgi.al2.projet.annuel.levelUp.model;
+package com.esgi.al2.projet.jee.levelUp.model;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;

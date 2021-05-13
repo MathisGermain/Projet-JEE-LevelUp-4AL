@@ -1,7 +1,7 @@
 package com.esgi.al2.projet.annuel.levelUp.controller;
 
-import com.esgi.al2.projet.annuel.levelUp.model.User;
-import com.esgi.al2.projet.annuel.levelUp.service.UserService;
+import com.esgi.al2.projet.jee.levelUp.model.User;
+import com.esgi.al2.projet.jee.levelUp.service.UserService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
