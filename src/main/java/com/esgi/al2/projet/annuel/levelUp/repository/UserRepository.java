@@ -1,7 +1,6 @@
 package com.esgi.al2.projet.annuel.levelUp.repository;
 
 import com.esgi.al2.projet.annuel.levelUp.model.User;
-import org.jetbrains.annotations.NotNull;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
