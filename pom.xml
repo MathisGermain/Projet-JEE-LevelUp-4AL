@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.esgi.4al2</groupId>
-	<artifactId>projet.annuel.levelUp</artifactId>
+	<artifactId>projet.jee.levelUp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>projet.annuel.levelUp</name>
-	<description>Projet annuel de 4eme annee, permettant de compiler et executer du code transmis par un utilisateur</description>
+	<name>projet.jee.levelUp</name>
+	<description>Projet JEE de 4eme annee, permettant de compiler et executer du code transmis par un utilisateur</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
