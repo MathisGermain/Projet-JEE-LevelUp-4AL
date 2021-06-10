@@ -1,4 +1,4 @@
-package com.esgi.al2.projet.annuel.levelUp.controller;
+package com.esgi.al2.projet.jee.levelUp.controller;
 
 import com.esgi.al2.projet.jee.levelUp.model.User;
 import com.esgi.al2.projet.jee.levelUp.service.UserService;
